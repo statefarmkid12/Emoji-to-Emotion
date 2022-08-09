@@ -1,0 +1,30 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#Camera , #Snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#Emotion_Name ,#Emotion_Name2
+{
+  color: black;
+}
+#Emotion_Name, #Emotion_Name2
+{
+  font-size: 40px;
+}
+#Emoji_Picture, #Emoji_Picture2
+{
+  font-size:48px;
+}
+.heading{
+  letter-spacing: 3px;
+}
